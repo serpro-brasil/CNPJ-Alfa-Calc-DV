@@ -2,9 +2,7 @@
 
 Códigos de validação do dígito verificador do CNPJ alfanumérico
 
-Repositório oficial do projeto: (em breve link para o repositorio definitivo, a ser fornecido pela equipe do sistema) 
-
-Download: https://www.serpro.gov.br/menu/noticias/videos/cnpj-alfanumerico.zip
+Repositório do projeto: https://github.com/serpro-repos/CNPJ-Alfa-Calc-DV
 
 Links:
 ------
